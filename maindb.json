@@ -1,8 +1,8 @@
 {
   "admin": {
-    "username": "admin",
-    "password": "5f4dcc3b5aa765d61d8327deb882cf99",
-    "loginToken": "a158bcd54404881ad61f2acbeeb76135",
+    "username": "gost",
+    "password": "e94f2f2148755b26205b5e3fedd672b7",
+    "loginToken": "",
     "logs": [
       {
         "time": "2021-01-11T15:23:07.971Z",
